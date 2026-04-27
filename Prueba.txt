@@ -1,1 +1,7 @@
 Holis
+git clone
+git add .
+git commit -m "Carga de archivos"
+git push
+git log
+git status
