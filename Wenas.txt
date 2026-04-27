@@ -1,1 +1,2 @@
 Veamos
+para agregar algo es primero git add . - luego git status - luego git commit -m ""- luego git push
